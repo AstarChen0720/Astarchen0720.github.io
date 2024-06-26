@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+    
+    font-family:"Noto+Sans+TC", sans-serif;
+
+    background-color: wheat;
+}
+
+h1 {
+font-family:Tiny5, sans-serif;
+font-size: 200px;
+text-align: center;
+letter-spacing: 3px;
+text-shadow: -10px 3px 2px gray;
+}
+
+h2,
+p,
+li
+{
+    font-size: 50px;
+    line-height: 2;
+    letter-spacing: 5px;
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto ;
+    height: 1000px;
+}
+
+input{
+    display: block;
+    background-color: wheat;
+    margin: auto ;
+    text-align: center;
+    width: 2000px;
+    height: 200px
+}
+
+h3{
+    margin: auto;
+    font-size: 70px;
+    text-align: center;
+
+}
